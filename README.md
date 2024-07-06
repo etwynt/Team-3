@@ -7,3 +7,14 @@ The group also includes an Estonian woman who cherishes her family life, which i
 Our fifth member remains a bit of a mystery but is very happy to be part of this powerful group of women.
 
 Together, we are excited to embark on this journey of learning, growth, and transformation, united by our shared goals and individual strengths.
+
+
+
+
+
+
+
+
+
+
+![Custom Repository Avatar](real3.png)
