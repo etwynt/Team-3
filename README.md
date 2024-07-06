@@ -13,8 +13,3 @@ Together, we are excited to embark on this journey of learning, growth, and tran
 
 
 
-
-
-
-
-![Custom Repository Avatar](real3.png)
