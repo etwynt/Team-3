@@ -1,5 +1,5 @@
-##Get method is used to receive data. It's only sending parameters through the url.##
-###POST method:###
+##Get method is used to receive data. It's only sending parameters through the url.
+###POST method:
 
 The POST method is a way for a web browser (or any client) to send data to a server to create or update a resource. It’s one of the HTTP methods used in web development, similar to GET, but with a different purpose.
 
