@@ -1,0 +1,21 @@
+## Get method is used to receive data. It's only sending parameters through the url. ##
+### POST method: ###
+
+The POST method is a way for a web browser (or any client) to send data to a server to create or update a resource. It’s one of the HTTP methods used in web development, similar to GET, but with a different purpose.
+
+Simple Explanation:
+GET: When you want to get or retrieve data from the server (like when you open a webpage).
+POST: When you want to send data to the server (like when you submit a form with your name and email).
+Real-World Example:
+Imagine you’re filling out a sign-up form on a website. You enter your name, email, and password, then click “Submit.” What happens next is:
+
+The browser collects the information you entered.
+It sends that information to the server using the POST method.
+The server receives the data and might create a new account for you or process your information in some way.
+Technical Details:
+Data is sent in the body of the HTTP request, not in the URL like with GET.
+POST is often used for actions that change data on the server (like adding a new user or posting a comment).
+Because POST can send larger amounts of data and supports more complex data structures, it’s commonly used for form submissions, file uploads, and API requests.
+In short, POST is the method used when you want to send data to a server to be processed or stored.
+
+
